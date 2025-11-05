@@ -2,6 +2,10 @@
 venv/
 app/venv/
 
+#results
+results/
+uploads/
+
 # Python cache
 __pycache__/
 *.pyc
