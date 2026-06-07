@@ -95,7 +95,7 @@ This system architecture demonstrates advanced engineering principles including:
 │  │  - File select   │  │  - WebRTC/Canvas streaming       │ │
 │  │  - Preview       │  │  - Real-time inference           │ │
 │  └──────────────────┘  └──────────────────────────────────┘ │
-└────────────────┬──────────────────────────────────────────────┘
+└────────────────┬────────────────────────────────────────────┘
                  │ HTTP/REST API
                  ▼
 ┌─────────────────────────────────────────────────────────────┐
@@ -107,7 +107,7 @@ This system architecture demonstrates advanced engineering principles including:
 │  │  - Detection extraction                              │   │
 │  │  - Arduino signal dispatch (async)                   │   │
 │  └──────────────────────────────────────────────────────┘   │
-└────────────────┬──────────────────────────────────────────────┘
+└────────────────┬────────────────────────────────────────────┘
                  │
         ┌────────┴────────┬──────────────────┐
         ▼                 ▼                  ▼
@@ -350,18 +350,9 @@ curl -X POST "http://localhost:8000/predict/" \
       <a href="https://github.com/TROJAN1HAMMER">
         <img src="https://avatars.githubusercontent.com/u/106213578?v=4" width="100px;" alt="TROJAN1HAMMER" style="border-radius: 50%;"/>
         <br/>
-        <strong>TROJAN1HAMMER</strong>
+        <strong>TROJAN1HAMMER/Harshith B</strong>
         <br/>
         <sub>Full-Stack Engineer</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/TROJAN1HAMMER">
-        <img src="https://avatars.githubusercontent.com/u/106213578?v=4" width="100px;" alt="HARSHITH B" style="border-radius: 50%;"/>
-        <br/>
-        <strong>HARSHITH B</strong>
-        <br/>
-        <sub>CV & IoT Specialist</sub>
       </a>
     </td>
   </tr>
